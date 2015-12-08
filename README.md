@@ -1,0 +1,3 @@
+# DOCX2XMLconver
+带模板的docx文件转xml
+编辑使用带模板的word来写法律文档 然后用此程序转xml供alfresco使用
